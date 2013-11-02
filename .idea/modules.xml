@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sina-weibo-sdk.iml" filepath="$PROJECT_DIR$/sina-weibo-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sina-weibo-sdk-android.iml" filepath="$PROJECT_DIR$/sina-weibo-sdk-android.iml" />
     </modules>
   </component>
 </project>

@@ -1,3 +1,6 @@
+sina-weibo-sdk-android
+======
+
 This file was created by IntelliJ IDEA 12.0.2 for binding GitHub repository
 新浪微博Android SDK修改版。对一些API进行了优化和扩充。
 作者：terwer
