@@ -1,4 +1,4 @@
-sina-weibo-sdk-android
+新浪微博Android SDK
 ======
 
 This file was created by IntelliJ IDEA 12.0.2 for binding GitHub repository<br/>
