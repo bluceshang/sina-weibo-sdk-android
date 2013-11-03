@@ -37,34 +37,39 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="System.out" />
   </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="weibo-sdk-android" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c00eef8-1e96-4e15-97d4-6a20165e947f" name="Default" comment="测试">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/sina/sso/RemoteSSO.java" afterPath="$PROJECT_DIR$/gen/com/sina/sso/RemoteSSO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src-api/com/weibo/sdk/android/api/StatusesAPI.java" afterPath="$PROJECT_DIR$/src-api/com/weibo/sdk/android/api/StatusesAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="6c00eef8-1e96-4e15-97d4-6a20165e947f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/weibo_sdk_android.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\MyCode\sina-weibo-sdk-android\README" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="D:\MyCode\sina-weibo-sdk-android\sina-weibo-sdk.iml" afterPath="$PROJECT_DIR$/sina-weibo-sdk-android.iml" />
     </list>
     <list id="866dda16-7873-4b81-b678-b2776ce24d0a" name="Rejected commit: Default" comment="测试" />
     <ignored path="TWeibo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../MyWeibo/src/com/xinvalue/MyWeibo/MainActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1364722029015" ignored="false" />
     <file path="/MainActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1364722024901" ignored="false" />
-    <file path="/Dummy.txt" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434441612" ignored="false" />
+    <file path="/Dummy.txt" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383442479450" ignored="false" />
     <file path="$PROJECT_DIR$/../Youwei/project.properties" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1380841878588" ignored="false" />
-    <file path="/fragment.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434366393" ignored="false" />
+    <file path="/fragment.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383436041089" ignored="false" />
     <file path="$PROJECT_DIR$/../Youwei/gen/tang/youwei/R.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1380845853489" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/weibo/sdk/android/demo/Manifest.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383433594363" ignored="false" />
     <file path="$PROJECT_DIR$/../Youwei/gen/tang/youwei/Manifest.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1380845853489" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/weibo/sdk/android/demo/R.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383433594363" ignored="false" />
     <file path="$PROJECT_DIR$/../Youwei/gen/tang/youwei/BuildConfig.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1380845853835" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/weibo/sdk/android/demo/BuildConfig.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383433594363" ignored="false" />
-    <file path="$PROJECT_DIR$/../terwer/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434612491" ignored="false" />
-    <file path="/.name" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434102956" ignored="false" />
+    <file path="$PROJECT_DIR$/../terwer/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383436046390" ignored="false" />
+    <file path="/.name" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435186190" ignored="false" />
     <file path="/README" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434427937" ignored="false" />
-    <file path="/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434623469" ignored="false" />
+    <file path="/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435350478" ignored="false" />
+    <file path="$PROJECT_DIR$/../XinvalueBaeJava/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435128878" ignored="false" />
+    <file path="$PROJECT_DIR$/../XinvalueBaeJava/.idea/modules.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435128878" ignored="false" />
+    <file path="$PROJECT_DIR$/../xinvalue-bae-java/.idea/.name" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435186190" ignored="false" />
+    <file path="$PROJECT_DIR$/../xinvalue-bae-java/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435521110" ignored="false" />
+    <file path="$PROJECT_DIR$/../xinvalue-bae-java/Readme.txt" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435276375" ignored="false" />
+    <file path="$PROJECT_DIR$/../xinvalue-bae-java/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435357238" ignored="false" />
+    <file path="$PROJECT_DIR$/../terwer/src/tang/youwei/LoginActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383436008144" ignored="false" />
+    <file path="/LoginActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435911146" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,11 +130,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="150" selection-end="150" vertical-scroll-proportion="0.18115942">
+            <state line="7" column="13" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src-demo/com/weibo/sdk/android/demo/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="29" selection-start="1133" selection-end="1206" vertical-scroll-proportion="0.03710575">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +158,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="terwer" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
@@ -152,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src-demo/com/weibo/sdk/android/demo/MainActivity.java" />
         <option value="$PROJECT_DIR$/demo/MainActivity.java" />
         <option value="$PROJECT_DIR$/src-demo/demo/MainActivity.java" />
         <option value="$PROJECT_DIR$/src-api/api/AccountAPI.java" />
@@ -160,6 +180,7 @@
         <option value="$PROJECT_DIR$/src-api/com/weibo/sdk/android/api/StatusesAPI.java" />
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src-demo/com/weibo/sdk/android/demo/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -216,7 +237,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,13 +265,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src-api" />
+              <option name="myItemId" value="src-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,11 +290,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -317,6 +338,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -343,19 +377,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -469,12 +490,28 @@
       <created>1383434444457</created>
       <updated>1383434444457</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新必要信息。">
+      <created>1383434650757</created>
+      <updated>1383434650757</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新必要信息。">
+      <created>1383434724996</created>
+      <updated>1383434724996</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新必要信息。">
+      <created>1383434781341</created>
+      <updated>1383434781341</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更新必要信息。">
+      <created>1383434882089</created>
+      <updated>1383434882089</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -494,7 +531,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20136778" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20136778" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952815" sideWeight="0.67066896" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -545,7 +582,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改个人信息。" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新必要信息。" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -562,6 +599,7 @@
     <MESSAGE value="项目导入。" />
     <MESSAGE value="测试" />
     <MESSAGE value="修改个人信息。" />
+    <MESSAGE value="更新必要信息。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -572,19 +610,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="12" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -596,7 +626,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/weibo/sdk/android/Oauth2AccessToken.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" />
+        <state line="12" column="13" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src-sso/com/sina/sso/RemoteSSO.aidl">
@@ -606,34 +638,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src-sso/com/weibo/sdk/android/sso/SsoHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="5" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.0" />
+        <state line="42" column="5" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/weibo/sdk/android/Weibo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" />
+        <state line="15" column="13" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src-api/com/weibo/sdk/android/api/AccountAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="12" column="13" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src-demo/com/weibo/sdk/android/keep/AccessTokenKeeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src-demo/com/weibo/sdk/android/demo/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="23" selection-start="5489" selection-end="5489" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="12" column="13" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -644,16 +669,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src-api/com/weibo/sdk/android/api/UsersAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="12" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="30" column="12" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src-api/com/weibo/sdk/android/api/StatusesAPI.java">
@@ -665,15 +686,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sina-weibo-sdk-android.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="150" selection-end="150" vertical-scroll-proportion="0.18115942">
+        <state line="7" column="13" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src-demo/com/weibo/sdk/android/demo/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="141" selection-end="141" vertical-scroll-proportion="0.148423">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src-demo/com/weibo/sdk/android/demo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="29" selection-start="1133" selection-end="1206" vertical-scroll-proportion="0.03710575">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -683,7 +718,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>weibo.sdk.android.sso.demo:jar</last-edited>
+          <last-edited>weibo-sdk-android</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -731,7 +766,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>weibo.sdk.android.sso.demo</last-edited>
+          <last-edited>sina-weibo-sdk-android</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
