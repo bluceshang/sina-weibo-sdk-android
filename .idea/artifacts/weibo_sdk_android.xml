@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/weibo_sdk_android</output-path>
     <root id="archive" name="weibo-sdk-android.jar">
       <element id="module-output" name="sina-weibo-sdk-android" />
+      <element id="android-final-package" facet="sina-weibo-sdk-android/android/Android" />
     </root>
   </artifact>
 </component>

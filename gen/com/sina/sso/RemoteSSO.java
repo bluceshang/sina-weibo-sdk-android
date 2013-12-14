@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\MyCode\\sina-weibo-sdk-android\\src-sso\\com\\sina\\sso\\RemoteSSO.aidl
+ * Original file: D:\\MyCode\\terwer\\sina-weibo-sdk-android\\src-sso\\com\\sina\\sso\\RemoteSSO.aidl
  */
 package com.sina.sso;
 public interface RemoteSSO extends android.os.IInterface
