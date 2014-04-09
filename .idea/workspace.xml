@@ -44,7 +44,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c00eef8-1e96-4e15-97d4-6a20165e947f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="866dda16-7873-4b81-b678-b2776ce24d0a" name="Rejected commit: Default" comment="测试" />
@@ -52,7 +51,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../MyWeibo/src/com/xinvalue/MyWeibo/MainActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1364722029015" ignored="false" />
     <file path="/MainActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1364722024901" ignored="false" />
-    <file path="/Dummy.txt" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397016722735" ignored="false" />
+    <file path="/Dummy.txt" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397017522296" ignored="false" />
     <file path="$PROJECT_DIR$/../Youwei/project.properties" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1380841878588" ignored="false" />
     <file path="/fragment.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383436041089" ignored="false" />
     <file path="$PROJECT_DIR$/../Youwei/gen/tang/youwei/R.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1380845853489" ignored="false" />
@@ -61,7 +60,7 @@
     <file path="$PROJECT_DIR$/../terwer/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383436046390" ignored="false" />
     <file path="/.name" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435186190" ignored="false" />
     <file path="/README" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383434427937" ignored="false" />
-    <file path="/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397016712814" ignored="false" />
+    <file path="/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397017482947" ignored="false" />
     <file path="$PROJECT_DIR$/../XinvalueBaeJava/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435128878" ignored="false" />
     <file path="$PROJECT_DIR$/../XinvalueBaeJava/.idea/modules.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435128878" ignored="false" />
     <file path="$PROJECT_DIR$/../xinvalue-bae-java/.idea/.name" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435186190" ignored="false" />
@@ -70,6 +69,9 @@
     <file path="$PROJECT_DIR$/../xinvalue-bae-java/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383435357238" ignored="false" />
     <file path="$PROJECT_DIR$/../terwer/src/tang/youwei/LoginActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383445041611" ignored="false" />
     <file path="/LoginActivity.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1383444780145" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-calaulator/src/com/xinvalue/MainJFrame.java" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397017343443" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-calaulator/README.md" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397017499358" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-calaulator/.idea/workspace.xml" changelist="6c00eef8-1e96-4e15-97d4-6a20165e947f" time="1397017553128" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +310,7 @@
     <property name="options.lastSelected" value="Errors" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smart-calaulator" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -544,12 +546,16 @@
       <created>1397016743980</created>
       <updated>1397016743980</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="更新gitignore。">
+      <created>1397016810983</created>
+      <updated>1397016810983</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -620,7 +626,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新项目。" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新gitignore。" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -639,6 +645,7 @@
     <MESSAGE value="修改个人信息。" />
     <MESSAGE value="更新必要信息。" />
     <MESSAGE value="更新项目。" />
+    <MESSAGE value="更新gitignore。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
